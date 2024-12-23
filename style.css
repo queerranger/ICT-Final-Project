@@ -103,6 +103,13 @@
         color: #e07dc0;
         cursor: pointer;
     }
+    .social-icons a{
+        color: grey;
+    }
+    .social-icons a:hover {
+        color: #e07dc0;
+        cursor: pointer;
+    }
 
 
 
